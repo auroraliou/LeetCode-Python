@@ -1,5 +1,14 @@
 ## Advanced Solution
 
+## Advanced Solution
+
+### Idea
+
+Create a variable `count` to calculate occurrences of the current result.
+When any non-result numbers appear, `count` minus 1.
+Since res must be a majority element.
+
+### Code
 ```
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
@@ -12,6 +21,12 @@ class Solution:
 ```
 
 ## Hashmap Solution 
+
+### Idea
+Create a hashmap to store how many times a number has appeared.
+The answer will be the number with greatest value.
+
+### Code
 
 ```
 class Solution:
