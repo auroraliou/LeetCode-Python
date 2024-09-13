@@ -31,4 +31,3 @@ res = [1] * (len(nums))
 ```
 if len(nums) = 4, create [1, 1, 1, 1]
 
-![IMG_1137](https://hackmd.io/_uploads/r16_iU-T0.jpg)
