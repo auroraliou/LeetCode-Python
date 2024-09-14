@@ -1,5 +1,9 @@
 # [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/?envType=study-plan-v2&envId=top-interview-150)
 
+output = [1, 3], lastEnd = 3
+Compare with [2, 6]
+Since the list is already sorted, so the first element of this pair must be greater than the first ele of the previous one.
+So '2' is between two nums of the previous pair.
 
 ## AC CODE
 ```
