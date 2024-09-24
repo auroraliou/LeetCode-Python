@@ -28,6 +28,6 @@ Look at **The set() Constructor**
 
 
 
-:::spoiler ```while s[r] in charSet:```  why use ```while``` instead of ```if```?
-use ```while``` so that we can remove all repeating chars.
-if we use ```if```, only one repeating char can be removed.
+`while s[r] in charSet:`  why use `while` instead of `if`?
+use `while` so that we can remove all repeating chars.
+if we use `if`, only one repeating char can be removed.
