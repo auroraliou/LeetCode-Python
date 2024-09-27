@@ -1,7 +1,5 @@
 ## Advanced Solution
 
-## Advanced Solution
-
 ### Idea
 
 Create a variable `count` to calculate occurrences of the current result.
